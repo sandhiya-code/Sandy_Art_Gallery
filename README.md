@@ -18,3 +18,7 @@ Font-Family - "https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0
 
 
 Set SMTP SERVER (Email) - "https://smtpjs.com/v3/smtp.js"   / Link -  https://smtpjs.com/
+
+
+# Screenshots
+![Screenshot 2024-07-27 193748](https://github.com/user-attachments/assets/2605ec99-2a68-45f2-9dcd-9338089c4cfd)
